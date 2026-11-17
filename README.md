@@ -45,13 +45,6 @@ I secure the systems where software meets the physical world — industrial cont
 I publish **Furious Warrior**, a newsletter on IEC 62443, NIS2, railway and AI security read by 10,000+ practitioners.
 [Subscribe here](https://otsecurityfurious.beehiiv.com/)
 
-### GitHub activity
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vaibhavsharma09&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavsharma09&layout=compact&hide_border=true&theme=transparent" alt="Top languages">
-</p>
-
 ---
 
 <p align="center">Open to collaboration on AI assurance, IEC 62443 and secure-by-design work. Reach me on <a href="https://www.linkedin.com/in/vaibhavsharma09">LinkedIn</a>.</p>
