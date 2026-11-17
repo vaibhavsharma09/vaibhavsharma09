@@ -28,7 +28,8 @@ CISM, CRISC, TAISE, ISASecure ACSSA, CCZT, CCSK, ISO 27001 Lead Auditor, PMP, CE
 **Projects**
 
 - [polish-grid-attack](https://github.com/vaibhavsharma09/polish-grid-attack): kill chain analysis and interactive walkthrough of the December 2024 attack on Polish energy infrastructure
+- [qgan-image-synthesis](https://github.com/vaibhavsharma09/qgan-image-synthesis): quantum GAN with a 4-qubit circuit generator, compared against a classical GAN baseline (M.Sc. coursework)
 
 **Links**
 
-[LinkedIn](http://www.linkedin.com/in/vaibhavsharma09) · [ISA 62443 expert profile](https://connect.isa.org/expert/vaibhavsharma) · [Website](https://sites.google.com/view/vaibhavsharma09/home)
+[LinkedIn](https://www.linkedin.com/in/vaibhavsharma09) · [ISA 62443 expert profile](https://connect.isa.org/expert/vaibhavsharma) · [CSA profile](https://circle.cloudsecurityalliance.org/connect/network/members/profile?UserKey=0768d7f7-f015-4442-8bb2-01845c62dd41) · [Website](https://sites.google.com/view/vaibhavsharma09/home) · [Newsletter](https://otsecurityfurious.beehiiv.com/)
