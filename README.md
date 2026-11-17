@@ -29,4 +29,6 @@ CISM, CRISC, TAISE, ISASecure ACSSA, CCZT, CCSK, ISO 27001 Lead Auditor, PMP, CE
 
 - [polish-grid-attack](https://github.com/vaibhavsharma09/polish-grid-attack): kill chain analysis and interactive walkthrough of the December 2024 attack on Polish energy infrastructure
 
-[LinkedIn](https://www.linkedin.com/in/vaibhavsharma09)
+**Links**
+
+[LinkedIn](http://www.linkedin.com/in/vaibhavsharma09) · [ISA 62443 expert profile](https://connect.isa.org/expert/vaibhavsharma) · [Website](https://sites.google.com/view/vaibhavsharma09/home)
